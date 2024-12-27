@@ -9,9 +9,7 @@ export default function Home() {
           <div>
             <SignedOut>
               <SignInButton>
-                <button className="bg-gray-300 text-slate-900 px-4 py-2 rounded shadow-md hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-slate-700">
-                  Sign In
-                </button>
+                <button className="bg-gray-300 text-slate-900 px-4 py-2 rounded shadow-md hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-slate-700">Sign In</button>
               </SignInButton>
             </SignedOut>
             <SignedIn>
