@@ -34,6 +34,7 @@ export default function Home() {
       <div className="w-full bg-slate-900  text-white p-4 text-center">
         <p className="text-sm">© 2024 My App. All rights reserved.</p>
       </div>
+      
     </div>
   );
 }
